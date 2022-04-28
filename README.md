@@ -18,4 +18,4 @@ Primary Azure Technology-
 
 Static Web Apps Visual Studio Code Azure Database For MySQL Microsoft Azure Portal
 
-Project Demo URL: 
+Project Demo URL: https://chinmaylvsshrut.z13.web.core.windows.net/
